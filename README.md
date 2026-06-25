@@ -1,6 +1,6 @@
-<h1 align="center">Pedro Cerqueira</h1>
+# Pedro Cerqueira
 
-<h3 align="center">Software Developer</h3>
+`Software Developer`
 
 <p align="center">
   Desenvolvedor focado em <b>backend</b>, com interesse em construção de APIs robustas 
