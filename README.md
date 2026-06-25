@@ -1,4 +1,4 @@
-# Pedro Henrique Cerqueira
+# Pedro Cerqueira
 
 `Software Developer`
 
