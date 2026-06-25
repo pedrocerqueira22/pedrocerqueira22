@@ -18,10 +18,3 @@
 </p>
 
 <br>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocerqueira22&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocerqueira22&layout=compact&theme=dark&hide_border=true" />
-</p>
