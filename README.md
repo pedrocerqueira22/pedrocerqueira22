@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Pedro Cerqueira</h1>
 
-<!--
-**pedrocerqueira22/pedrocerqueira22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Desenvolvedor focado em <b>backend</b>, com interesse em construção de APIs robustas 
+  e modelagem de bancos de dados. Gosto de entender o sistema de ponta a ponta — 
+  da estrutura do banco até a lógica de negócio exposta pela API. 
+  Sempre estudando e aplicando o que aprendo em projetos reais.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,python,fastapi,java,spring,postgres" />
+</p>
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocerqueira22&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocerqueira22&layout=compact&theme=dark&hide_border=true" />
+</p>
