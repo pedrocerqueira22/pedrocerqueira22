@@ -13,7 +13,7 @@ ________
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,python,fastapi,java,spring,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,python,SQL,fastapi,postgres" />
 </p>
 
 <br>
