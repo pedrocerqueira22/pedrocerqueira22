@@ -10,7 +10,7 @@ ________
 
 <br>
 
-### 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,python,fastapi,postgres" />
