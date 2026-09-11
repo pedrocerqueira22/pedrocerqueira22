@@ -18,3 +18,5 @@ ________
 
 <br>
 
+## Connect With Me
+<p align="center"> <a href="https://www.https://www.linkedin.com/in/pedro-henrique-cerqueira-6590a234b//" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" /> </a> &nbsp; <a href="https://x.com/liswstr" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&Logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="X" /> </a> &nbsp; <a href="https://dev.to/lisanogueira" target="_blank"> 
